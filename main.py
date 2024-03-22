@@ -38,3 +38,6 @@ else:
           print("NRIC is valid.")
       else:
           print(NRIC_Error)
+
+
+      
